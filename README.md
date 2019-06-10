@@ -1,5 +1,4 @@
-# Peer-to-peer file sharing folder
-#### 2/18 – 5/18
+## 'OneFolder' Peer-to-peer file sharing folder
 
 A asynchronous peer-to-peer file transfer from one to n computers sharing the same files in one document folder. 
 
